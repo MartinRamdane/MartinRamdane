@@ -8,8 +8,6 @@
 
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/martin-ramdane) or via [email](mailto:martin.ramdane@gmail.com)
 
-- 📄 My curriculum vitae is available [here](https://admlbs.fr/static/media/cv.149a0d7437fe2724c911.pdf)
-
 
 <h3 align="left">Languages and Tools:</h3>
 
