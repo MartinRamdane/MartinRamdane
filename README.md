@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer</h3>
 <h3 align="center">I'm also a student and a freelancer</h3>
 
-- 🔭 I’m currently in Montréal for one year of study at McGill University
+- 🔭 I'm currently in Montreal for a year of studies at McGill University
 
 - 👨‍💻 You can see my portfolio here [martinramdane.fr](https://martinramdane.fr)
 
