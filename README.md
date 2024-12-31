@@ -13,9 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Github stats](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=adamlbs&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
 <p align="left"> 
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.svg" alt="C" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
@@ -25,6 +22,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
         <img src="https://cdn.worldvectorlogo.com/logos/adonisjs.svg" alt="AdonisJS" width="40" height="40"/>
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
